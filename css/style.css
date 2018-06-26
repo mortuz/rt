@@ -41,6 +41,10 @@
   padding: 6px 16px;
   font-size: 12px;
 }
+#what-we-do a{
+  text-decoration: none;
+  cursor: pointer;
+}
 #footer {
   background-color: #34495e;
   color: #fff;
