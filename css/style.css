@@ -9,7 +9,7 @@
 
 .display-table {
   display: table;
-  min-height: 600px;
+  height: 600px;
   max-width: 600px;
   margin: auto;
 }
